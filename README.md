@@ -4,10 +4,12 @@ I'm Luis, a Computer Science Sophomore interested in Machine Learning Engineerin
 
 I'm currently working on improving my ML skills through hands-on projects and Kaggle competitions.
 
-Languages: Python, Java
+🔗 **Connect with me**
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📊 [Kaggle](https://www.kaggle.com/your-kaggle)
 
-Data & ML: scikit-learn
+**Languages:** Python, Java  
+**Data & ML:** scikit-learn  
+**Tools:** Jupyter Notebook  
 
-Tools: Jupyter Notebook
-
-Fun Fact : NaN != NaN
+Fun Fact: `NaN != NaN`
