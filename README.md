@@ -6,4 +6,5 @@ I'm currently working on improving my ML skills.
 
 ## Current projects
 1. [MNIST Neural Network](https://github.com/Lueezyy/digit-recognizer)
-2. [Titanic Survival Prediction](https://github.com/Lueezyy/titanic)
+2. [Titanic Spaceship Transport Prediction](https://github.com/Lueezyy/spaceship-titanic)
+3. [Titanic Survival Prediction](https://github.com/Lueezyy/titanic)
