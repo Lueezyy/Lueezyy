@@ -1,6 +1,7 @@
 # Hello World
 
 I'm Luis, a Computer Science Sophomore interested in Machine Learning Engineering.
+
 Currently building ML models to compete in various Kaggle competitions.
 
 ## Current projects
