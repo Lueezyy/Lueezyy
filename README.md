@@ -1,8 +1,7 @@
 # Hello World
 
 I'm Luis, a Computer Science Sophomore interested in Machine Learning Engineering.
-
-I'm currently working on improving my ML skills.
+Currently building ML models to compete in various Kaggle competitions.
 
 ## Current projects
 1. [MNIST Neural Network](https://github.com/Lueezyy/digit-recognizer)
