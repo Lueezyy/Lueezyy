@@ -1,10 +1,11 @@
-# Hello, World
+# Hello, World!
 
-I'm Luis, a Computer Science student interested in Machine Learning.
+I'm Luis, a Computer Science student building and training Machine Learning models.
 
-Currently building ML models to compete in Kaggle competitions.
+I am developing an enterprise-style storage infrastructure monitoring system that simulates real-world servers and storage devices.
 
-## Current projects
-1. [MNIST Digit Recognizer](https://github.com/Lueezyy/digit-recognizer)
-2. [House Prices Prediction](https://github.com/Lueezyy/house-prices)
-3. [Titanic Survival Prediction](https://github.com/Lueezyy/titanic)
+## Featured projects
+1. [Enterprise Storage Simulator](https://github.com/Lueezyy/enterprise-storage)
+2. [MNIST Digit Recognizer](https://github.com/Lueezyy/digit-recognizer)
+3. [House Prices Prediction](https://github.com/Lueezyy/house-prices)
+4. [Titanic Survival Prediction](https://github.com/Lueezyy/titanic)
